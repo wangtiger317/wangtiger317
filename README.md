@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-**I am a Full Stack Developer with 6 yeas of experience**
+**I am a Full Stack Developer with 7 yeas of experience**
 
 - I’m currently working on AIO Bots and Mobile app developement.
 
 For many years I completed the clean and amazing website and mobile app,desktop app successfully and achieved the rich experience on web and app(mobile, desktop ) part.
 
 ex: 
-1. music web site and app
+1. music web site and app using React, Vue, Angular and laravel etc
 2. desktop apps including NFT AIO Bots
 3. Custom api developing and integrating with existing web and apps
 
@@ -19,7 +19,7 @@ etc
  I have keen eye on the Frontend developing and rich  experience on this part.
  
 
-> - React.js based ui with martial-ui & styled-components, bootstrap, redux and Firebase, context
+> - React.js based ui with martial-ui & styled-components, Tailwind, bootstrap, redux and Firebase, context
 > - Vue.js
 > - Electron.js
 > - Angular.js

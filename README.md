@@ -16,20 +16,26 @@ etc
 
 **[** Frontend ] 
 
- I have keen eye on the Frontend developing and rich  experience on this part.
+ I have keen eye on Frontend developing and rich  experience on this part.
  
 
 > - React.js based ui with martial-ui & styled-components, Tailwind, bootstrap, redux and Firebase, context
 > - Vue.js
+> - Next.js
 > - Electron.js
+> - NativeScript
 > - Angular.js
 > - Tailwind.css
+> - Theme-UI
+> - chakra-ui
 > - Scss
 > - Css
 > - Bootstrap
 > - HTML
 
 [ Backend ]
+
+I can build the full backend and  Rest API Endpoints using below languages.
 
 > - Node.js
 > - Express.js
@@ -42,6 +48,7 @@ etc
 [ Mobile App Development and Desktop App ]
 
 > - React Native
+> - NativeScript
 > - Flutter
 > - Android
 > - IOS

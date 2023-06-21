@@ -2,7 +2,7 @@
 
 **I am a Full Stack Developer with 7 yeas of experience**
 
-- I’m currently working on AIO Bots and Mobile app developement.
+- I’m currently working on Websites using Next and Tailwind CSS and Mobile app developement using Flutter,React Native, Java.
 
 For many years I completed the clean and amazing website and mobile app,desktop app successfully and achieved the rich experience on web and app(mobile, desktop ) part.
 

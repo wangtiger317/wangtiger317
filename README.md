@@ -24,6 +24,7 @@ etc
 > - Next.js
 > - Electron.js
 > - NativeScript
+> - Svelte
 > - Angular.js
 > - Tailwind.css
 > - Theme-UI
@@ -42,7 +43,7 @@ I can build the full backend and  Rest API Endpoints using below languages.
 > - Python
 > - flask
 > - Django
-> - laravel
+> - Laravel
 > - Codeigniter
 
 [ Mobile App Development and Desktop App ]

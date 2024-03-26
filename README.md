@@ -2,7 +2,7 @@
 
 **I am a Full Stack Developer with 7 yeas of experience**
 
-- I’m currently working on Websites using Next and Tailwind CSS and Mobile app developement using Flutter,React Native, Java.
+- I’m currently working on Websites using Next and Tailwind CSS,Shadcn and Mobile app developement using Flutter,React Native, Java.
 
 For many years I completed the clean and amazing website and mobile app,desktop app successfully and achieved the rich experience on web and app(mobile, desktop ) part.
 
@@ -28,6 +28,7 @@ etc
 > - Angular.js
 > - Tailwind.css
 > - Theme-UI
+> - Shadcn-UI
 > - chakra-ui
 > - Scss
 > - Css
@@ -54,7 +55,6 @@ I can build the full backend and  Rest API Endpoints using below languages.
 > - Android
 > - IOS
 > - React and Electron Desktop app
-> - PyQt desktop app
 > - Nuxt and Electron Desktop App
 
 [ CMS ]

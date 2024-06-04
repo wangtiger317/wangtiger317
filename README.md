@@ -2,14 +2,15 @@
 
 **I am a Full Stack Developer with 7 yeas of experience**
 
-- I’m currently working on Websites using Next and Tailwind CSS,Shadcn and Mobile app developement using React Native,.
+- I’m currently working on Websites using Next and Tailwind CSS,Shadcn and Mobile app developement using React Native,Flutter.
 
-For many years I completed the clean and amazing website and mobile app,desktop app successfully and achieved the rich experience on web and app(mobile, desktop ) part.
+For many years I have completed the clean and amazing website and mobile app,desktop app successfully and achieved the rich experience on web and app(mobile, desktop ) part.
 
 ex: 
 1. music web site and app using React, Vue, Angular and laravel etc
 2. desktop apps including NFT AIO Bots
 3. Custom api developing and integrating with existing web and apps
+4. 3D websites and Webflow websites, Shopify Sites
 
 etc
 
@@ -20,19 +21,14 @@ etc
  
 
 > - React.js based ui with martial-ui & styled-components, Tailwind, bootstrap, redux and Firebase, context
-> - Vue.js
-> - Next.js
+> - Frameworks(Next.js,Remix and Astro)
+> - Vue.js and Nuxt.js
 > - Electron.js
 > - NativeScript
 > - Svelte
 > - Angular.js
-> - Tailwind.css
-> - Theme-UI
-> - Shadcn-UI
-> - chakra-ui
+> - Libraries(Tailwind.css,Theme-UI,Shadcn-UI,chakra-ui,Bootstrap)
 > - Scss
-> - Css
-> - Bootstrap
 > - HTML
 
 [ Backend ]
@@ -44,8 +40,8 @@ I can build the full backend and  Rest API Endpoints using below languages.
 > - Python
 > - flask
 > - Django
-> - Laravel
-> - Codeigniter
+> - Three.js
+> - PHP,Laravel,CI
 
 [ Mobile App Development and Desktop App ]
 
@@ -56,6 +52,7 @@ I can build the full backend and  Rest API Endpoints using below languages.
 > - IOS
 > - React and Electron Desktop app
 > - Nuxt and Electron Desktop App
+> - PyQT desktop App
 
 [ CMS ]
 

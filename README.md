@@ -2,7 +2,7 @@
 
 **I am a Full Stack Developer with 7 yeas of experience**
 
-- I’m currently working on Websites using Next,Svelte and Tailwind CSS,Shadcn and Mobile app developement using React Native,Flutter.
+- I’m currently working on Websites using Next,Svelte and Tailwind CSS,Shadcn and app developement using React Native,Flutter and Wails.
 
 For many years I have completed the clean and amazing website and mobile app,desktop app successfully and achieved the rich experience on web and app(mobile, desktop ) part.
 
